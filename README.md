@@ -44,7 +44,7 @@ Sustainability & Additive Manufacturing:
 
 Ansys Granta MI: New tools for sustainable product development, including deeper life cycle assessment (LCA) integration and a material database for eco-friendly materials.
 
-        Ansys Additive Suite: Improved process simulation accuracy for laser powder bed fusion, including support for new materials and better prediction of residual stress and distortion.
+Ansys Additive Suite: Improved process simulation accuracy for laser powder bed fusion, including support for new materials and better prediction of residual stress and distortion.
 
 Core Philosophy: 2024 R1 moves simulation from a domain of specialists to an integrated, intelligent, and accessible pillar of the product lifecycle. By leveraging AI to automate complexity and enhance productivity, and by deepening multi-physics accuracy, it empowers broader teams to make simulation-driven decisions earlier and with greater confidence.
 
